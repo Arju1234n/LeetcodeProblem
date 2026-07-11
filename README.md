@@ -14,4 +14,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Arju1234n/LeetcodeProblem/tree/master/2016-maximum-difference-between-increasing-elements) |
 <!---LeetCode Topics End-->
