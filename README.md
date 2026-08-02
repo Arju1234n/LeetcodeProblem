@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0042-trapping-rain-water) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Arju1234n/LeetcodeProblem/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Dynamic Programming
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0628-maximum-product-of-three-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0016-3sum-closest) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1859-sorting-the-sentence](https://github.com/Arju1234n/LeetcodeProblem/tree/master/1859-sorting-the-sentence) |
 ## Sliding Window
 |  |
