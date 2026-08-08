@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0344-reverse-string) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0042-trapping-rain-water) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
