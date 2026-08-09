@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0013-roman-to-integer) |
+| [0089-gray-code](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0089-gray-code) |
 | [0415-add-strings](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
