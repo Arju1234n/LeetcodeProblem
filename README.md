@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0415-add-strings](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0796-rotate-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0796-rotate-string) |
 ## Trie
 |  |
@@ -166,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0089-gray-code) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
