@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0415-add-strings) |
 | [0567-permutation-in-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0796-rotate-string) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1859-sorting-the-sentence](https://github.com/Arju1234n/LeetcodeProblem/tree/master/1859-sorting-the-sentence) |
 ## Array
 |  |
