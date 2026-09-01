@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Arju1234n/LeetcodeProblem/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
