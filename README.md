@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Arju1234n/LeetcodeProblem/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Dynamic Programming
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0560-subarray-sum-equals-k](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0567-permutation-in-string) |
 ## Queue
 |  |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
