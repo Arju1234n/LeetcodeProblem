@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0567-permutation-in-string) |
 ## String
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Arju1234n/LeetcodeProblem/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -167,12 +169,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -229,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0560-subarray-sum-equals-k) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
