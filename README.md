@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0387-first-unique-character-in-a-string) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1859-sorting-the-sentence](https://github.com/Arju1234n/LeetcodeProblem/tree/master/1859-sorting-the-sentence) |
 ## Sliding Window
