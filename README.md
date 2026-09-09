@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0796-rotate-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Arju1234n/LeetcodeProblem/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1859-sorting-the-sentence](https://github.com/Arju1234n/LeetcodeProblem/tree/master/1859-sorting-the-sentence) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Arju1234n/LeetcodeProblem/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Arju1234n/LeetcodeProblem/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0415-add-strings) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Arju1234n/LeetcodeProblem/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
 |  |
 | ------- |
