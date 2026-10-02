@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0994-rotting-oranges](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0994-rotting-oranges) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Arju1234n/LeetcodeProblem/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Dynamic Programming
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0901-online-stock-span) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
