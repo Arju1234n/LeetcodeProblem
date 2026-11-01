@@ -2,25 +2,21 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
 
-        if (s.size() != t.size()) {
+        if(s.size() != t.size())
             return false;
-        }
 
         int freq[26] = {0};
 
-        // Count characters of s
-        for (char c : s) {
-            freq[c - 'a']++;
+        for(int i = 0; i < s.size(); i++) {
+            freq[s[i] - 'a']++;
         }
 
-        // Remove characters of t
-        for (char c : t) {
-            freq[c - 'a']--;
+        for(int i = 0; i < t.size(); i++) {
+            freq[t[i] - 'a']--;
         }
 
-        // Check all frequencies
-        for (int i = 0; i < 26; i++) {
-            if (freq[i] != 0) {
+        for(int i = 0; i < 26; i++) {
+            if(freq[i] != 0) {
                 return false;
             }
         }
