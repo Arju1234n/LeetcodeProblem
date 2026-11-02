@@ -2,29 +2,32 @@ class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
 
-        int n = s1.size();
-        int m = s2.size();
-
-        if (n > m)
+        if (s1.size() > s2.size()) {
             return false;
+        }
 
-        vector<int> freq1(26, 0);
-        vector<int> freq2(26, 0);
+        int freq1[26] = {0};
+        int freq2[26] = {0};
 
-        // Frequency of s1
-        for (char ch : s1)
-            freq1[ch - 'a']++;
+        // Step 1: Count frequency of s1
+        for (char c : s1) {
+            freq1[c - 'a']++;
+        }
 
-        // First window of s2
-        for (int i = 0; i < n; i++)
+        int n = s1.size();
+
+        // Step 2: Create first window
+        for (int i = 0; i < n; i++) {
             freq2[s2[i] - 'a']++;
+        }
 
-        // Check first window
-        if (freq1 == freq2)
+        // Step 3: Compare first window
+        if (equal(freq1, freq1 + 26, freq2)) {
             return true;
+        }
 
-        // Slide the window
-        for (int i = n; i < m; i++) {
+        // Step 4: Slide the window
+        for (int i = n; i < s2.size(); i++) {
 
             // Add new character
             freq2[s2[i] - 'a']++;
@@ -32,8 +35,10 @@ public:
             // Remove old character
             freq2[s2[i - n] - 'a']--;
 
-            if (freq1 == freq2)
+            // Compare frequencies
+            if (equal(freq1, freq1 + 26, freq2)) {
                 return true;
+            }
         }
 
         return false;
