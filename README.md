@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0994-rotting-oranges](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0994-rotting-oranges) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
