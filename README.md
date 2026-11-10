@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0994-rotting-oranges](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0994-rotting-oranges) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Arju1234n/LeetcodeProblem/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Arju1234n/LeetcodeProblem/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0540-single-element-in-a-sorted-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Arju1234n/LeetcodeProblem/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0409-longest-palindrome) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Arju1234n/LeetcodeProblem/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Quicksort
 |  |
 | ------- |
