@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Arju1234n/LeetcodeProblem/tree/master/0876-middle-of-the-linked-list) |
